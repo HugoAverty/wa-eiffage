@@ -1609,7 +1609,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":".\/Plaquette Photovoltaique Clemessy_FR.pdf"
+                         "value":"Plaquette Photovoltaique Clemessy_FR.pdf"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
