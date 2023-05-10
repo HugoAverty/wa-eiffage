@@ -5778,7 +5778,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Capgemini main office map"
+         "value":"Eiffage main office"
         }, 
         {
          "name":"mapImage",
@@ -5793,7 +5793,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Capgemini Office"
+         "value":"Eiffage main office"
         }, 
         {
          "name":"script",
