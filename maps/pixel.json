@@ -1914,7 +1914,7 @@
                         {
                          "name":"openTabTriggerMessage",
                          "type":"string",
-                         "value":"Pressez espace pour ouvrir le lien"
+                         "value":"Pressez espace pour ouvrir le white board"
                         }, 
                         {
                          "name":"openWebsite",
@@ -5459,7 +5459,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -5479,7 +5479,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -5507,7 +5507,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -5527,7 +5527,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -5555,7 +5555,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -5575,7 +5575,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -5603,7 +5603,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -5623,7 +5623,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -5651,7 +5651,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -5671,7 +5671,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -5699,7 +5699,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"default",
@@ -5719,7 +5719,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"access_granted.mp3"
+                         "value":"..\/access_granted.mp3"
                         }, 
                         {
                          "name":"persist",
