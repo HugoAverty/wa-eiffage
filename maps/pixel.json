@@ -5699,7 +5699,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":""
+                         "value":" "
                         }, 
                         {
                          "name":"default",
@@ -5719,7 +5719,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":""
+                         "value":" "
                         }, 
                         {
                          "name":"persist",
